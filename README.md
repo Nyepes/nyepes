@@ -13,10 +13,6 @@
   </a>
   <a href="https://www.linkedin.com/in/nicolas-yepes-pulido-334a72242/">
     <img src="https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=LinkedIn" alt="LeetCode">
-  </a>
-    <a href="nyepes04@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-white?style=flat-square&logo=Gmail" alt="LeetCode">
-  </a>
 </p>
 
 ## Languages
