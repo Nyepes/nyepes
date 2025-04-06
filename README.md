@@ -3,7 +3,7 @@
 <p align="center"> 
   </br>
   </br>
-  I am a Sophmore studying Computer Science at University of Illinois Urbana Champaign.
+  I am a Junior studying Computer Science at University of Illinois Urbana Champaign.
   </br>
   Feel free to contact me
   </br>
